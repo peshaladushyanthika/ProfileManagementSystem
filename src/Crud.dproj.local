@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/13 11:18:52.000.182,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/13 11:19:11.000.266,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/13 11:59:16.000.397,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\acer\Documents\Embarcadero\Studio\Projects\MainU.dfm</Transaction>
+    <Transaction>2024/06/13 11:59:16.000.397,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\acer\Documents\Embarcadero\Studio\Projects\MainU.pas</Transaction>
+    <Transaction>2024/06/13 11:59:53.000.044,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\acer\Documents\Embarcadero\Studio\Projects\DataU.dfm</Transaction>
+    <Transaction>2024/06/13 11:59:53.000.044,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\acer\Documents\Embarcadero\Studio\Projects\DataU.pas</Transaction>
+    <Transaction>2024/06/13 15:50:35.000.723,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/13 15:54:41.000.955,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\acer\Documents\Embarcadero\Studio\Projects\ProfileU.dfm</Transaction>
+    <Transaction>2024/06/13 15:54:41.000.955,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\acer\Documents\Embarcadero\Studio\Projects\ProfileU.pas</Transaction>
+    <Transaction>2024/06/13 20:06:30.000.954,C:\Users\acer\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Crud.dproj</Transaction>
+    <Transaction>2024/06/28 10:08:12.000.004,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\Unit1.pas</Transaction>
+    <Transaction>2024/06/28 10:52:41.000.055,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\Unit1.pas</Transaction>
+    <Transaction>2024/06/28 10:53:02.000.000,C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\Unit1.dfm=C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\ContactU.dfm</Transaction>
+    <Transaction>2024/06/28 10:53:02.000.000,C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\Unit1.pas=C:\Users\acer\Documents\Embarcadero\Studio\Projects\CRUD\ContactU.pas</Transaction>
+  </Transactions>
+</BorlandProject>
